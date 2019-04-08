@@ -1,0 +1,37 @@
+body {
+	background: url(https://lh3.googleusercontent.com/piDakAeaqABfGr0MSCV7xAt2VuHcje_z8a8Fey--nQmIo3x9Ljq91z_4A2Wy7zxpjsqEfsXR7uDRPGDDEfyAEPY5jpkM-uQbqV1n6OwYwEgOqPTB7Q5FDGnxOSnemb3oT1ER_NnZ6dwU7nVHdQCUl5HIWzcFlZGebsHAGczlcPgxanb8-iT5HMX1o3OMLRsoRlB6olbuadzNxszmM5fTNjWMT5TyL6tid0L7fr-yz1TAq-gqGWWZKFTGKrmG5FuUC52LbrksLT0TpZXs31u_e2yxAxOp71egIxtUyINZWkpEmFRUIZXS3K6jMR63tKOfS-njm3rlf6WsaDIJ9JTHoYwayqRfeZI6R5V30rYOIY_cj27EAHWWCd_sh8Zb3XkfMlsY9qi_TAKu-xX2aa9NmuFkABkm98AudENRftzzZzHRGGuvz71C0l11abpns4LjHm88PvzHJkzMQ5b33dEqFQby_MecobrCDdaZuku3iheMDs41Nl598guZldCqEi27JAanGCRom83iMTHOzUW6f8ZhJdyZ6EzsZBInA4pYchoZjzhCdsoihc0OR5Fvipk6216VR4SrFjHTDZrfly79noq6S4-u4BHS4gWGztWv12fBYl2ChZKNSwDIwk0CDaSNT4SNh9jnhy6N0Qcq7Gxp7xlOXxTbY-o=w1270-h678-no) no-repeat center center fixed;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	font-family: Montserrat;
+}
+.navbar {
+	background-color: #4D4F50 !important;
+	}
+
+
+.navbar .navbar-brand {
+	color: #F7FCFD;
+}
+
+
+.navbar .navbar-nav li a{
+	color: #F7FCFD !important;
+}
+
+
+
+#content {
+	text-align: center;
+	padding-top: 15%;
+	padding-left: 5%
+	
+}
+h2 {
+	color: #F7FCFD;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.5),
+				 0px 8px 13px rgba(0,0,0,0.2),
+				 0px 18px 23px rgba(0,0,0,0.2);
+	
+}

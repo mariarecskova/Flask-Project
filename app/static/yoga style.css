@@ -1,0 +1,16 @@
+body {font-family: Montserrat;
+}
+
+.navbar {
+	background-color: #4D4F50 !important;
+	}
+
+
+.navbar .navbar-brand {
+	color: #F7FCFD;
+}
+
+
+.navbar .navbar-nav li a{
+	color: #F7FCFD !important;
+}
