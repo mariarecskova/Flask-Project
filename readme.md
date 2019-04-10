@@ -1,4 +1,4 @@
-# Half-Moon- my yoga teacher webapp, built with on a Flask webserver with Bootstrap templates
+# Half-Moon- my yoga teacher webapp, built on a Flask webserver with Bootstrap templates
 
 
 ## Core Files
